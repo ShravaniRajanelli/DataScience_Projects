@@ -2,7 +2,7 @@
 
 # Welcome to My Project Portfolio 🚀
 
-Hello and thank you for stepping into my world of projects! 🌟 This repository serves as a testament to my journey through the realms of innovation, problem-solving, and perpetual learning.
+Hello and thank you for stepping into my world of projects! 🌟 This repository serves as a testament to my journey through the realms of innovation, problem-solving, and perpetual learning.{
 
 ## The Journey Within 🌌
 
@@ -24,3 +24,4 @@ I encourage you to take your time, delve into the projects, explore their docume
 Your presence in this space is truly valued, and I'm thrilled to have you on this journey. Enjoy your visit, and if you have any questions, ideas, or contributions, please don't hesitate to reach out. Let's make this journey together! 🚀✨
 | Category | Project Name | Link |
 |-------|--|-------|
+|Classification|Titanic Survival Prediction|[Project Link](https://github.com/ShravaniRajanelli/Project-on-Titanic-Survival-Prediction)
