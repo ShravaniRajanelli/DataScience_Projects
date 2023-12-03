@@ -28,3 +28,4 @@ Your presence in this space is truly valued, and I'm thrilled to have you on thi
 | |Chicago Airbnb Price Prediction|[Project Link](https://github.com/ShravaniRajanelli/Project-Chicago-Airbnb)
 |Classification|Titanic Survival Prediction|[Project Link](https://github.com/ShravaniRajanelli/Project-on-Titanic-Survival-Prediction)
 | |HR Analytics |[Project Link](https://github.com/ShravaniRajanelli/HR-Analytics-Challenge)
+| |Telco Customer Churn Prediction|[Project Link](https://github.com/ShravaniRajanelli/Telco-Customer-Churn-Prediction)
