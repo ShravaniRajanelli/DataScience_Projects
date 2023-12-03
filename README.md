@@ -25,5 +25,6 @@ Your presence in this space is truly valued, and I'm thrilled to have you on thi
 | Category | Project Name | Link |
 |-------|--|-------|
 |Regression|Big Mart Sales Prediction|[Project Link](https://github.com/ShravaniRajanelli/Big-Mart-sales-Data-Set)
-|-------|Chicago Airbnb Price Prediction|[Project Link](https://github.com/ShravaniRajanelli/Project-Chicago-Airbnb)
+| |Chicago Airbnb Price Prediction|[Project Link](https://github.com/ShravaniRajanelli/Project-Chicago-Airbnb)
 |Classification|Titanic Survival Prediction|[Project Link](https://github.com/ShravaniRajanelli/Project-on-Titanic-Survival-Prediction)
+| |HR Analytics |[Project Link](https://github.com/ShravaniRajanelli/HR-Analytics-Challenge)
