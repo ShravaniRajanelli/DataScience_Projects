@@ -30,4 +30,6 @@ Your presence in this space is truly valued, and I'm thrilled to have you on thi
 |Classification|Titanic Survival Prediction|[Project Link](https://github.com/ShravaniRajanelli/Project-on-Titanic-Survival-Prediction)
 | |HR Analytics |[Project Link](https://github.com/ShravaniRajanelli/HR-Analytics-Challenge)
 | |Telco Customer Churn Prediction|[Project Link](https://github.com/ShravaniRajanelli/Telco-Customer-Churn)
-|Advance Machine Learning Techniques|----|----|
+|Advance Machine Learning Techniques| | |
+|RFM Analysis| | |
+|Market Basket Analysis| | |
