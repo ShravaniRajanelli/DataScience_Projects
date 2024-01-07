@@ -24,6 +24,7 @@ I encourage you to take your time, delve into the projects, explore their docume
 Your presence in this space is truly valued, and I'm thrilled to have you on this journey. Enjoy your visit, and if you have any questions, ideas, or contributions, please don't hesitate to reach out. Let's make this journey together! 🚀✨
 | Category | Project Name | Link |
 |-------|--|-------|
+|Machine Learning Techniques| | |
 |Regression|Big Mart Sales Prediction|[Project Link](https://github.com/ShravaniRajanelli/Big-Mart-sales-Data-Set)
 | |Chicago Airbnb Price Prediction|[Project Link](https://github.com/ShravaniRajanelli/Project-Chicago-Airbnb)
 | | Vehicle Car Dekho Price Prediction|[Project Link](https://github.com/ShravaniRajanelli/Vehicle-Car-Dekho)
