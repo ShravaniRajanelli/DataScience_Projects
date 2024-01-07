@@ -32,7 +32,7 @@ Your presence in this space is truly valued, and I'm thrilled to have you on thi
 | |HR Analytics |[Project Link](https://github.com/ShravaniRajanelli/HR-Analytics-Challenge)
 | |Telco Customer Churn Prediction|[Project Link](https://github.com/ShravaniRajanelli/Telco-Customer-Churn)
 |Machine Learning in Pyspark| | |
-|Classification| | |
+|Classification|Medical-Appointments data set |[Project Link](https://github.com/ShravaniRajanelli/Medical-Appointments-Pyspark) |
 |Regression| | |
 |Advance Machine Learning Techniques| | |
 |RFM Analysis|Retail Transactions RFM-Analysis |[Project Link](https://github.com/ShravaniRajanelli/Retail-Transactions-RFM-Analysis)
