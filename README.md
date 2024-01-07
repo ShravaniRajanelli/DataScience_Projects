@@ -31,6 +31,9 @@ Your presence in this space is truly valued, and I'm thrilled to have you on thi
 |Classification|Titanic Survival Prediction|[Project Link](https://github.com/ShravaniRajanelli/Project-on-Titanic-Survival-Prediction)
 | |HR Analytics |[Project Link](https://github.com/ShravaniRajanelli/HR-Analytics-Challenge)
 | |Telco Customer Churn Prediction|[Project Link](https://github.com/ShravaniRajanelli/Telco-Customer-Churn)
+|Machine Learning in Pyspark| | |
+|Classification| | |
+|Regression| | |
 |Advance Machine Learning Techniques| | |
 |RFM Analysis|Retail Transactions RFM-Analysis |[Project Link](https://github.com/ShravaniRajanelli/Retail-Transactions-RFM-Analysis)
 | |Movie-Rental-RFM-Analysis |[Project Link](https://github.com/ShravaniRajanelli/Movie-Rental-RFM-Analysis)
