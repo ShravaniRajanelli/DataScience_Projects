@@ -35,3 +35,5 @@ Your presence in this space is truly valued, and I'm thrilled to have you on thi
 |RFM Analysis|Retail Transactions RFM-Analysis |[Project Link](https://github.com/ShravaniRajanelli/Retail-Transactions-RFM-Analysis)
 | |Movie-Rental-RFM-Analysis |[Project Link](https://github.com/ShravaniRajanelli/Movie-Rental-RFM-Analysis)
 |Market Basket Analysis| | |
+| |Market Basket Analysis-1|[Project Link](https://github.com/ShravaniRajanelli/Market-Basket-Analysis-1)
+| |Market Basket Analysis-2 |[Project Link](https://github.com/ShravaniRajanelli/Market-Basket-Analysis-2)
