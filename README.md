@@ -33,7 +33,7 @@ Your presence in this space is truly valued, and I'm thrilled to have you on thi
 | |Telco Customer Churn Prediction|[Project Link](https://github.com/ShravaniRajanelli/Telco-Customer-Churn)
 |Machine Learning in Pyspark| | |
 |Classification|Medical-Appointments data set |[Project Link](https://github.com/ShravaniRajanelli/Medical-Appointments-Pyspark) |
-|Regression| | |
+|Regression|Black-Friday-Sales |[Project Link](https://github.com/ShravaniRajanelli/Black-Friday-Sales-Pyspark)
 |Advance Machine Learning Techniques| | |
 |RFM Analysis|Retail Transactions RFM-Analysis |[Project Link](https://github.com/ShravaniRajanelli/Retail-Transactions-RFM-Analysis)
 | |Movie-Rental-RFM-Analysis |[Project Link](https://github.com/ShravaniRajanelli/Movie-Rental-RFM-Analysis)
