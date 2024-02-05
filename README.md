@@ -43,5 +43,6 @@ Your presence in this space is truly valued, and I'm thrilled to have you on thi
 | |Market Basket Analysis-1|[Project Link](https://github.com/ShravaniRajanelli/Market-Basket-Analysis-1)
 | |Market Basket Analysis-2 |[Project Link](https://github.com/ShravaniRajanelli/Market-Basket-Analysis-2)
 | Neural Network| | |
-|RNN|Social-Dilemma-Tweet-RNN |[Project Link](https://github.com/ShravaniRajanelli/Social-Dilemma-Tweet-RNN)
-|CNN| Shoes-Image-Classification-using-CNN|[Project Link](https://github.com/ShravaniRajanelli/Shoes-Image-Classification-using-CNN)
+|ANN|Heart Disease Artificial Neural Network|[Project Link](https://github.com/ShravaniRajanelli/Heart-Disease-Artificial-Neural-Network)| 
+|RNN|Social Dilemma Tweet RNN |[Project Link](https://github.com/ShravaniRajanelli/Social-Dilemma-Tweet-RNN)
+|CNN| Shoes Image Classification using CNN|[Project Link](https://github.com/ShravaniRajanelli/Shoes-Image-Classification-using-CNN)
