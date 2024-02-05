@@ -24,25 +24,25 @@ I encourage you to take your time, delve into the projects, explore their docume
 Your presence in this space is truly valued, and I'm thrilled to have you on this journey. Enjoy your visit, and if you have any questions, ideas, or contributions, please don't hesitate to reach out. Let's make this journey together! 🚀✨
 | Category | Project Name | Link |
 |-------|--|-------|
-|Machine Learning Techniques| | |
+|**Machine Learning Techniques**| | |
 |Regression|Big Mart Sales Prediction|[Project Link](https://github.com/ShravaniRajanelli/Big-Mart-sales-Data-Set)
 | |Chicago Airbnb Price Prediction|[Project Link](https://github.com/ShravaniRajanelli/Project-Chicago-Airbnb)
 | | Vehicle Car Dekho Price Prediction|[Project Link](https://github.com/ShravaniRajanelli/Vehicle-Car-Dekho)
 |Classification|Titanic Survival Prediction|[Project Link](https://github.com/ShravaniRajanelli/Project-on-Titanic-Survival-Prediction)
 | |HR Analytics |[Project Link](https://github.com/ShravaniRajanelli/HR-Analytics-Challenge)
 | |Telco Customer Churn Prediction|[Project Link](https://github.com/ShravaniRajanelli/Telco-Customer-Churn)
-|Machine Learning in Pyspark| | |
+|**Machine Learning in Pyspark**| | |
 |Classification|Medical-Appointments data set |[Project Link](https://github.com/ShravaniRajanelli/Medical-Appointments-Pyspark) |
 |Regression|Black-Friday-Sales |[Project Link](https://github.com/ShravaniRajanelli/Black-Friday-Sales-Pyspark)
-|Unsupervised| | |
+|**Unsupervised**| | |
 |Clustering--KMeans,Hierarchical,DBSCAN|Mall-Customers-data-set|[Project Link](https://github.com/ShravaniRajanelli/Mall-Customers-data-set-Clustering)
-|Advance Machine Learning Techniques| | |
+|**Advance Machine Learning Techniques**| | |
 |RFM Analysis|Retail Transactions RFM-Analysis |[Project Link](https://github.com/ShravaniRajanelli/Retail-Transactions-RFM-Analysis)
 | |Movie-Rental-RFM-Analysis |[Project Link](https://github.com/ShravaniRajanelli/Movie-Rental-RFM-Analysis)
 |Market Basket Analysis| | |
 | |Market Basket Analysis-1|[Project Link](https://github.com/ShravaniRajanelli/Market-Basket-Analysis-1)
 | |Market Basket Analysis-2 |[Project Link](https://github.com/ShravaniRajanelli/Market-Basket-Analysis-2)
-| Neural Network| | |
+|**Neural Network**| | |
 |ANN|Heart Disease Artificial Neural Network|[Project Link](https://github.com/ShravaniRajanelli/Heart-Disease-Artificial-Neural-Network)| 
 |RNN|Social Dilemma Tweet RNN |[Project Link](https://github.com/ShravaniRajanelli/Social-Dilemma-Tweet-RNN)
 |CNN| Shoes Image Classification using CNN|[Project Link](https://github.com/ShravaniRajanelli/Shoes-Image-Classification-using-CNN)
