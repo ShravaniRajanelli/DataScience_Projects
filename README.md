@@ -32,10 +32,10 @@ Your presence in this space is truly valued, and I'm thrilled to have you on thi
 | |HR Analytics |[Project Link](https://github.com/ShravaniRajanelli/HR-Analytics-Challenge)
 | |Telco Customer Churn Prediction|[Project Link](https://github.com/ShravaniRajanelli/Telco-Customer-Churn)
 |**Machine Learning in Pyspark**| | |
-|Classification|Medical-Appointments data set |[Project Link](https://github.com/ShravaniRajanelli/Medical-Appointments-Pyspark) |
+|Classification|Medical-Appointments |[Project Link](https://github.com/ShravaniRajanelli/Medical-Appointments-Pyspark) |
 |Regression|Black-Friday-Sales |[Project Link](https://github.com/ShravaniRajanelli/Black-Friday-Sales-Pyspark)
 |**Unsupervised**| | |
-|Clustering--KMeans,Hierarchical,DBSCAN|Mall-Customers-data-set|[Project Link](https://github.com/ShravaniRajanelli/Mall-Customers-data-set-Clustering)
+|Clustering--KMeans,Hierarchical,DBSCAN|Mall Customers|[Project Link](https://github.com/ShravaniRajanelli/Mall-Customers-data-set-Clustering)
 |**Advance Machine Learning Techniques**| | |
 |RFM Analysis|Retail Transactions RFM-Analysis |[Project Link](https://github.com/ShravaniRajanelli/Retail-Transactions-RFM-Analysis)
 | |Movie-Rental-RFM-Analysis |[Project Link](https://github.com/ShravaniRajanelli/Movie-Rental-RFM-Analysis)
@@ -44,5 +44,6 @@ Your presence in this space is truly valued, and I'm thrilled to have you on thi
 | |Market Basket Analysis-2 |[Project Link](https://github.com/ShravaniRajanelli/Market-Basket-Analysis-2)
 |**Neural Network**| | |
 |ANN|Heart Disease Artificial Neural Network|[Project Link](https://github.com/ShravaniRajanelli/Heart-Disease-Artificial-Neural-Network)| 
+|  | SeoulBike Data Artificial Neural Network |[Project Link](https://github.com/ShravaniRajanelli/SeoulBike-Data-Artificial-Neural-Network)|
 |RNN|Social Dilemma Tweet RNN |[Project Link](https://github.com/ShravaniRajanelli/Social-Dilemma-Tweet-RNN)
 |CNN| Shoes Image Classification using CNN|[Project Link](https://github.com/ShravaniRajanelli/Shoes-Image-Classification-using-CNN)
