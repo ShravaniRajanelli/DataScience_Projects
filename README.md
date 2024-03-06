@@ -22,8 +22,9 @@ Witness the passion that fuels each project, providing a glimpse into my unyield
 I encourage you to take your time, delve into the projects, explore their documentation, and get a behind-the-scenes look at the challenges and triumphs embedded in each endeavor. Whether you're an enthusiast, a fellow developer, or someone simply curious about the world of technology, I hope you discover inspiration and insights within these digital creations.
 
 Your presence in this space is truly valued, and I'm thrilled to have you on this journey. Enjoy your visit, and if you have any questions, ideas, or contributions, please don't hesitate to reach out. Let's make this journey together! 🚀✨
-| Category | Project Name | Link |
-|-------|--|-------|
+|Topic| Category | Project Name | Link |
+|---|-------|--|-------|
+|EXCEL| Classification|Bike Buyers prediction |[Project Link](https://github.com/ShravaniRajanelli/Bike-Buyer-Project-in-Excel)
 |**Machine Learning Techniques**| | |
 |Regression|Big Mart Sales Prediction|[Project Link](https://github.com/ShravaniRajanelli/Big-Mart-sales-Data-Set)
 | |Chicago Airbnb Price Prediction|[Project Link](https://github.com/ShravaniRajanelli/Project-Chicago-Airbnb)
