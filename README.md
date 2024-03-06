@@ -35,7 +35,7 @@ Your presence in this space is truly valued, and I'm thrilled to have you on thi
 | | |Telco Customer Churn Prediction|[Link](https://github.com/ShravaniRajanelli/Telco-Customer-Churn)
 |**Machine Learning in Pyspark**| | ||
 | |Classification|Medical-Appointments |[Link](https://github.com/ShravaniRajanelli/Medical-Appointments-Pyspark) |
-| |Regression|Black-Friday-Sales |Link](https://github.com/ShravaniRajanelli/Black-Friday-Sales-Pyspark)
+| |Regression|Black-Friday-Sales |[Link](https://github.com/ShravaniRajanelli/Black-Friday-Sales-Pyspark)
 |**Unsupervised**| | | |
 | |Clustering--KMeans,Hierarchical,DBSCAN|Mall Customers|[Link](https://github.com/ShravaniRajanelli/Mall-Customers-data-set-Clustering)
 |**Advance Machine Learning Techniques**| | | | 
