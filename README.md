@@ -24,27 +24,28 @@ I encourage you to take your time, delve into the projects, explore their docume
 Your presence in this space is truly valued, and I'm thrilled to have you on this journey. Enjoy your visit, and if you have any questions, ideas, or contributions, please don't hesitate to reach out. Let's make this journey together! 🚀✨
 |Topic| Category | Project Name | Link |
 |---|-------|--|-------|
-|EXCEL| Classification|Bike Buyers prediction |[Project Link](https://github.com/ShravaniRajanelli/Bike-Buyer-Project-in-Excel)
+|**EXCEL**| Classification|Bike Buyers prediction |[Link](https://github.com/ShravaniRajanelli/Bike-Buyer-Project-in-Excel)
+|**MYSQL**||Libraray Management System|[Link](https://github.com/ShravaniRajanelli/Library-Management-system-MYSQL)
 |**Machine Learning Techniques**| | | |
-| |Regression|Big Mart Sales Prediction|[Project Link](https://github.com/ShravaniRajanelli/Big-Mart-sales-Data-Set)
-| | |Chicago Airbnb Price Prediction|[Project Link](https://github.com/ShravaniRajanelli/Project-Chicago-Airbnb)
-| | | Vehicle Car Dekho Price Prediction|[Project Link](https://github.com/ShravaniRajanelli/Vehicle-Car-Dekho)
-| |Classification|Titanic Survival Prediction|[Project Link](https://github.com/ShravaniRajanelli/Project-on-Titanic-Survival-Prediction)
-| | |HR Analytics |[Project Link](https://github.com/ShravaniRajanelli/HR-Analytics-Challenge)
-| | |Telco Customer Churn Prediction|[Project Link](https://github.com/ShravaniRajanelli/Telco-Customer-Churn)
+| |Regression|Big Mart Sales Prediction|[Link](https://github.com/ShravaniRajanelli/Big-Mart-sales-Data-Set)
+| | |Chicago Airbnb Price Prediction|[Link](https://github.com/ShravaniRajanelli/Project-Chicago-Airbnb)
+| | | Vehicle Car Dekho Price Prediction|[ Link](https://github.com/ShravaniRajanelli/Vehicle-Car-Dekho)
+| |Classification|Titanic Survival Prediction|[Link](https://github.com/ShravaniRajanelli/Project-on-Titanic-Survival-Prediction)
+| | |HR Analytics |[Link](https://github.com/ShravaniRajanelli/HR-Analytics-Challenge)
+| | |Telco Customer Churn Prediction|[Link](https://github.com/ShravaniRajanelli/Telco-Customer-Churn)
 |**Machine Learning in Pyspark**| | ||
-| |Classification|Medical-Appointments |[Project Link](https://github.com/ShravaniRajanelli/Medical-Appointments-Pyspark) |
-| |Regression|Black-Friday-Sales |[Project Link](https://github.com/ShravaniRajanelli/Black-Friday-Sales-Pyspark)
-| |**Unsupervised**| | |
-| |Clustering--KMeans,Hierarchical,DBSCAN|Mall Customers|[Project Link](https://github.com/ShravaniRajanelli/Mall-Customers-data-set-Clustering)
+| |Classification|Medical-Appointments |[Link](https://github.com/ShravaniRajanelli/Medical-Appointments-Pyspark) |
+| |Regression|Black-Friday-Sales |Link](https://github.com/ShravaniRajanelli/Black-Friday-Sales-Pyspark)
+|**Unsupervised**| | | |
+| |Clustering--KMeans,Hierarchical,DBSCAN|Mall Customers|[Link](https://github.com/ShravaniRajanelli/Mall-Customers-data-set-Clustering)
 |**Advance Machine Learning Techniques**| | | | 
-| |RFM Analysis|Retail Transactions RFM-Analysis |[Project Link](https://github.com/ShravaniRajanelli/Retail-Transactions-RFM-Analysis)
-|| |Movie-Rental-RFM-Analysis |[Project Link](https://github.com/ShravaniRajanelli/Movie-Rental-RFM-Analysis)
+| |RFM Analysis|Retail Transactions RFM-Analysis |[Link](https://github.com/ShravaniRajanelli/Retail-Transactions-RFM-Analysis)
+|| |Movie-Rental-RFM-Analysis |[Link](https://github.com/ShravaniRajanelli/Movie-Rental-RFM-Analysis)
 | |Market Basket Analysis| | |
-| | |Market Basket Analysis-1|[Project Link](https://github.com/ShravaniRajanelli/Market-Basket-Analysis-1)
-| | |Market Basket Analysis-2 |[Project Link](https://github.com/ShravaniRajanelli/Market-Basket-Analysis-2)
+| | |Market Basket Analysis-1|[Link](https://github.com/ShravaniRajanelli/Market-Basket-Analysis-1)
+| | |Market Basket Analysis-2 |[Link](https://github.com/ShravaniRajanelli/Market-Basket-Analysis-2)
 |**Neural Network**| | ||
-| |ANN|Heart Disease Artificial Neural Network|[Project Link](https://github.com/ShravaniRajanelli/Heart-Disease-Artificial-Neural-Network)| 
-| |  | SeoulBike Data Artificial Neural Network |[Project Link](https://github.com/ShravaniRajanelli/SeoulBike-Data-Artificial-Neural-Network)|
-| |RNN|Social Dilemma Tweet RNN |[Project Link](https://github.com/ShravaniRajanelli/Social-Dilemma-Tweet-RNN)
-| |CNN| Shoes Image Classification using CNN|[Project Link](https://github.com/ShravaniRajanelli/Shoes-Image-Classification-using-CNN)
+| |ANN|Heart Disease Artificial Neural Network|[Link](https://github.com/ShravaniRajanelli/Heart-Disease-Artificial-Neural-Network)| 
+| |  | SeoulBike Data Artificial Neural Network |[ Link](https://github.com/ShravaniRajanelli/SeoulBike-Data-Artificial-Neural-Network)|
+| |RNN|Social Dilemma Tweet RNN |[Link](https://github.com/ShravaniRajanelli/Social-Dilemma-Tweet-RNN)
+| |CNN| Shoes Image Classification using CNN|[Link](https://github.com/ShravaniRajanelli/Shoes-Image-Classification-using-CNN)
