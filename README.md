@@ -26,7 +26,7 @@ Your presence in this space is truly valued, and I'm thrilled to have you on thi
 |---|-------|--|-------|
 |**EXCEL**| Classification|Bike Buyers prediction |[Link](https://github.com/ShravaniRajanelli/Bike-Buyer-Project-in-Excel)
 |**MYSQL**||Libraray Management System|[Link](https://github.com/ShravaniRajanelli/Library-Management-system-MYSQL)
-| |Bank Managment System|[Link](https://github.com/ShravaniRajanelli/Bank-Managment-System)
+| | |Bank Managment System|[Link](https://github.com/ShravaniRajanelli/Bank-Managment-System)
 |**Machine Learning Techniques**| | | |
 | |Regression|Big Mart Sales Prediction|[Link](https://github.com/ShravaniRajanelli/Big-Mart-sales-Data-Set)
 | | |Chicago Airbnb Price Prediction|[Link](https://github.com/ShravaniRajanelli/Project-Chicago-Airbnb)
